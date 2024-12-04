@@ -1,3 +1,7 @@
+/*Author: Blake Mills
+ * This program was written to solve the second puzzle for the second day of Advent of Code (AoC)
+ * To view the problem, visit  https://adventofcode.com/2024/day/2
+ */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
